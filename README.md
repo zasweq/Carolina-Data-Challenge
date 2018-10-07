@@ -10,7 +10,7 @@ One of the things I had to do was remove columns we did not want to visualize fr
 I also had to check if the data had equality across the dataset. I first checked if the data had an equal amount of data points for each year between 1999-2015, and then checked if the data had an equal amount of data points for each individual disease. The data had an equal amount of data points for both.
 
 Another thing I did was group the dataset by year and cause name, then add up the sums and convert it to a csv, which can be seen as "Population Totals". I thought this would allow us to have data for the entire population of the US. However, what I did not know was that the data already included the data for the entire population, represented as United States in the state column.
-This turned out useful though, as our visualization of data of the total population deaths showed an outlier in the year 2015, which was significantly less than 2014, which did not make sense in terms of the overall trend of the data and population growth. These grouped totals actually turned out to be
+This turned out useful though, as our visualization of data of the total population deaths showed an outlier in the year 2015, which was significantly less than 2014, which did not make sense in terms of the overall trend of the data and intuitively through the concept of population growth. These grouped totals actually turned out to be
 population * 2 for all the totals (it added up all the states and also the population), except for 2015, which showed us the population data point was not calculated properly for that point.
 
 My main focus was the cleaning of the dataset, which my group member then Visualized through Tableau.
