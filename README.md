@@ -2,7 +2,7 @@
 
 Website of final visualization: https://public.tableau.com/profile/trivikrama.sai.p.t#!/vizhome/LeadingcausesofdeathintheUS/Dashboard1?publish=yes
 
-I participated in the Carolina Data Challenge this year, and this shows off the project I worked on in a group of two. Our project was the visualzation of death rates of different diseases across the country and grouped by state.
+I participated in the Carolina Data Challenge this year, and this shows off the project I worked on in a group of two. Our project was the visualization of death rates of different diseases across the country and grouped by state.
 I cleaned the csv file given to us in the competition using Python and the pandas library. The original csv file can be seen as "Original Dataset".
 The Dataset provided was a CSV with 10296 rows, with the year, 113 cause name, cause name, state, deaths, and age adjusted death rate. The data contained data from the years 1999-2016.
 
